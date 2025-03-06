@@ -9,8 +9,8 @@
 
 | Atribut         | Keterangan            |
 | --------------- | --------------------- |
-| **Nama**        | Daffa Sadewa Putra    |
-| **NIM**         | 312310463           |
+| **Nama**        | Abidzar Sabil Handoyo |
+| **NIM**         | 312310471             |
 | **Kelas**       | TI.23.A.5             |
 | **Mata Kuliah** | Pemrograman Website 2 |
 
